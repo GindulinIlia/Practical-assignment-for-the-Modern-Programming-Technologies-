@@ -13,4 +13,4 @@
 
 | Главный экран (Список направлений) | Экран с деталями (Баллы и экзамены) |
 | :---: | :---: |
-| ![Главный экран](images/Architecture page.png) | (https://github.com/GindulinIlia/Practical-assignment-for-the-Modern-Programming-Technologies-/blob/main/images/main.png)|
+![Главный экран](images/main.png) | ![Экран с деталями](images/Architecture%20page.png) |
