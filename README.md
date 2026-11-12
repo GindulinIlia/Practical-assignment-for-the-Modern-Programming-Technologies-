@@ -13,4 +13,4 @@
 
 | Главный экран (Список направлений) | Экран с деталями (Баллы и экзамены) |
 | :---: | :---: |
-| ![Главный экран](images/Architecture page.png) | ![Экран Архитектуры](images/main.png) |
+| ![Главный экран](images/Architecture page.png) | (images/main.png) |
